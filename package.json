@@ -1,0 +1,34 @@
+{
+  "name": "simsim",
+  "version": "0.0.1",
+  "description": "Javascript library for making browser based simulation games",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennethlarsen/simsim.js.git"
+  },
+  "keywords": [
+    "games",
+    "simulation",
+    "browser",
+    "based"
+  ],
+  "author": "Kenneth Larsen <kennethlarsen@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kennethlarsen/simsim.js/issues"
+  },
+  "homepage": "https://github.com/kennethlarsen/simsim.js#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.15.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.9.0",
+    "mocha": "^3.2.0"
+  }
+}
